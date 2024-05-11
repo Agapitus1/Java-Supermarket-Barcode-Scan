@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NewSupermarket
+comment1.params=
+comment1.target=NewSupermarket()
+comment2.params=
+comment2.target=void\ setupProducts()
+comment3.params=code
+comment3.target=Product\ findProduct(int)
+comment4.params=theBrand
+comment4.target=Product\ findBrand(java.lang.String)
+numComments=5
